@@ -5,5 +5,6 @@ var fs = require("fs");
 
 var files = fs.readdirSync(__dirname + "/controller");
 files.forEach(function(file){
-    require("./controller/"+file).start();
+    var jsonPath = __dirname + "/json";
+    require("./controller/"+file)(jsonPath);
 });
