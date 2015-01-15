@@ -35,7 +35,7 @@
       <file leaf-file-name="TestexcelTojson.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controller/TestexcelTojson.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="524" selection-end="524" vertical-scroll-proportion="0.18524872" vertical-offset="367" max-vertical-offset="1100">
+            <state line="22" column="39" selection-start="667" selection-end="667" vertical-scroll-proportion="0.31389365" vertical-offset="367" max-vertical-offset="1100">
               <folding />
             </state>
           </provider>
@@ -180,14 +180,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17397769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17397769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -219,20 +219,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/node-xlsx/node_modules/lodash.map/node_modules/lodash.createcallback/node_modules/lodash._basecreatecallback/node_modules/lodash.bind/node_modules/lodash._createwrapper/node_modules/lodash._basebind/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="415" selection-end="425" vertical-scroll-proportion="0.5633803" vertical-offset="0" max-vertical-offset="1700">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/node-xlsx/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/build/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="15" selection-start="3706" selection-end="3706" vertical-scroll-proportion="1.5125786" vertical-offset="4394" max-vertical-offset="5375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/start.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="40" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
@@ -249,7 +235,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controller/TestexcelTojson.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="524" selection-end="524" vertical-scroll-proportion="0.18524872" vertical-offset="367" max-vertical-offset="1100">
+        <state line="22" column="39" selection-start="667" selection-end="667" vertical-scroll-proportion="0.31389365" vertical-offset="367" max-vertical-offset="1100">
           <folding />
         </state>
       </provider>
